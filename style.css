@@ -1,0 +1,20 @@
+.top{
+   
+    background-color: brown!important;
+    text-align: center;
+    border: solid black 2px!important;
+
+}
+.panel-heading{
+    background-color: blue!important;
+    color: white!important;
+}
+body{
+    background-color: #eee!important;
+}
+.panel{
+    border: solid black 2px!important;
+}
+th{
+    font-weight: bold!important;
+}
